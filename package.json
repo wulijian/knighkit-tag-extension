@@ -16,7 +16,6 @@
         "url": "XXX"
     },
     "bin": {
-        "kkit": "./bin/kkit"
     },
     "dependencies": {
     },
