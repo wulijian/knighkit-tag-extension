@@ -1,0 +1,24 @@
+{
+    "name": "knighkit-tag-extension",
+    "title": "knighkit-tag-extension",
+    "description": "knighkit-tag-extension 是 knighkit 的 html 标签扩展插件。",
+    "version": "0.1.00",
+    "homepage": "",
+    "engines": { "node" : ">=0.8.0" },
+    "author": {
+        "name": "KnightWu"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wulijian/knighkit-tag-extension.git"
+    },
+    "bugs": {
+        "url": "XXX"
+    },
+    "bin": {
+        "kkit": "./bin/kkit"
+    },
+    "dependencies": {
+    },
+    "keywords": ["tag 扩展", "knighkit 插件"]
+}
