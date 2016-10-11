@@ -7,6 +7,8 @@ var puzzle = require('./lib/puzzle');
 
 exports.include = include.include;
 exports.puz = puzzle.puz;
+exports.allPuz = puzzle.getAllSubs;
+exports.allInc = include.getAllSubs;
 exports.multiTag = function (pageUrl, htmlCode) {
     if (!fs.existsSync(pageUrl)) {
         console.warn(pageUrl, ' is not found local!');
