@@ -2,7 +2,7 @@
     "name": "knighkit-tag-extension",
     "title": "knighkit-tag-extension",
     "description": "knighkit-tag-extension 是 knighkit 的 html 标签扩展插件。",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "homepage": "",
     "engines": { "node" : ">=0.8.0" },
     "author": {
